@@ -1,10 +1,12 @@
 # NOTOS
-Proyecto de mediación-investigación basado en el sistema desarrollado por un grupo multidisciplinar compuesto por colaboradores/as del grupo de trabajo Satélites DIY, junto con profesorado y alumnado del IES Gómez Moreno de Madrid @Medialab-Prado.
+
+Notos forma parte del proyecto de mediación-investigación Satélites DIY, en que trabajamos en comunidad para estudiar la contaminación atmosférica de Madrid. Este sistema está basado en el prototipo desarrollado por un grupo multidisciplinar compuesto por colaboradores/as del grupo de trabajo Satélites DIY, junto con profesorado y alumnado del IES Gómez Moreno de Madrid @Medialab-Prado.
 
 Colaboradores/as: 
-.Damián René, Steve Woolsens, Tania Netsvetaylova, Manuel Patiño, Pablo Fernández Robledo, Alvaro Redondo.
-.Alumnado y profesorado (Felipe Yebes e Isabel Blázquez de Paz) del IES Gómez Moreno 
-.Alumnado del IES Cervantes
+
+Damián René, Steve Woolsens, Tania Netsvetaylova, Manuel Patiño, Pablo Fernández Robledo, Alvaro Redondo.
+Alumnado y profesorado (Felipe Yebes e Isabel Blázquez de Paz) del IES Gómez Moreno.
+Alumnado del IES Cervantes.
 
 https://www.medialab-prado.es/proyectos/satelites-diy
 
