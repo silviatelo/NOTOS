@@ -24,9 +24,9 @@ El sistema recoge medidas de la cantidad de partículas volátiles en el aire, P
 - Módulo GNSS, GPS, GLONASS GG-1802
   https://es.aliexpress.com/item/32851353457.html
   
-  ## Datos
+## Datos
   
- Los archivos generados tienen el siguiente formato:
+Los archivos generados tienen el siguiente formato:
  
 || 1um (ug/m3) || 2.5um (ug/m3) || 10um (ug/m3) ||	1um ||	2.5um ||	10um ||	Fecha ||	Hora ||	Latitud ||	Longitud ||	Altitud (GPS) ||	Satelites ||	Temp	|| Presion ||	Humedad ||	Gas (kOhms) ||	Altitud (Bar) ||
 
