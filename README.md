@@ -1,5 +1,5 @@
 # NOTOS
-Proyecto de mediación-investigación desarrollado por un grupo multidisciplinar compuesto por colaboradores/as del grupo de trabajo Satélites DIY, junto con profesorado y alumnado del IES Gómez Moreno de Madrid @Medialab-Prado.
+Proyecto de mediación-investigación basado en el sistema desarrollado por un grupo multidisciplinar compuesto por colaboradores/as del grupo de trabajo Satélites DIY, junto con profesorado y alumnado del IES Gómez Moreno de Madrid @Medialab-Prado.
 
 https://www.medialab-prado.es/proyectos/satelites-diy
 
