@@ -1,6 +1,6 @@
 # NOTOS
 
-Notos forma parte del proyecto de mediación-investigación Satélites DIY, en que trabajamos en comunidad para estudiar la contaminación atmosférica de Madrid. Este sistema está basado en el prototipo desarrollado por un grupo multidisciplinar compuesto por colaboradores/as del grupo de trabajo Satélites DIY, junto con profesorado y alumnado del IES Gómez Moreno de Madrid @Medialab-Prado.
+Notos forma parte del proyecto de mediación-investigación Satélites DIY, en el que trabajamos en comunidad para estudiar la contaminación atmosférica de Madrid. Este sistema está basado en el prototipo desarrollado por un grupo multidisciplinar compuesto por colaboradores/as del grupo de trabajo Satélites DIY, junto con profesorado y alumnado del IES Gómez Moreno de Madrid @Medialab-Prado.
 
 Colaboradores/as: 
 
