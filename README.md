@@ -1,6 +1,11 @@
 # NOTOS
 Proyecto de mediación-investigación basado en el sistema desarrollado por un grupo multidisciplinar compuesto por colaboradores/as del grupo de trabajo Satélites DIY, junto con profesorado y alumnado del IES Gómez Moreno de Madrid @Medialab-Prado.
 
+Colaboradores/as: 
+.Damián René, Steve Woolsens, Tania Netsvetaylova, Manuel Patiño, Pablo Fernández Robledo, Alvaro Redondo.
+.Alumnado y profesorado (Felipe Yebes e Isabel Blázquez de Paz) del IES Gómez Moreno 
+.Alumnado del IES Cervantes
+
 https://www.medialab-prado.es/proyectos/satelites-diy
 
 El video del proceso de los primeros prototipos, LAIKA II y Botellín de bici, puede visitarse aquí: https://vimeo.com/379979688
