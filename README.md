@@ -3,9 +3,9 @@ Proyecto de mediación-investigación basado en el sistema desarrollado por un g
 
 https://www.medialab-prado.es/proyectos/satelites-diy
 
-El sistema NOTOS, es un sistema de medición de la contaminación geolocalizado y portátil, para llevar a cabo estudios medioambientales de la ciudad de Madrid. Este dispositivo está basado en los diferentes prototipos desarrollados por los estudiantes durante las sesiones de trabajo en Medialab-Prado, la presentación del proyecto en la Feria de la Ciencia de IFEMA o el congreso científico para estudiantes, Cientificatel. 
-
 El video del proceso de los primeros prototipos, LAIKA II y Botellín de bici, puede visitarse aquí: https://vimeo.com/379979688
+
+El sistema NOTOS, es un sistema de medición de la contaminación geolocalizado y portátil, para llevar a cabo estudios medioambientales de la ciudad de Madrid. Este dispositivo está basado en los diferentes prototipos desarrollados por los estudiantes durante las sesiones de trabajo en Medialab-Prado, la presentación del proyecto en la Feria de la Ciencia de IFEMA o el congreso científico para estudiantes, Cientificatel. 
 
 ## Funcionamiento
 
